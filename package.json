@@ -1,0 +1,22 @@
+{
+  "name": "number-guessing-game",
+  "version": "1.0.0",
+  "description": "Number Guessing Game\r This is a simple text-based number guessing game written in Python.",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/an8aa/Number-Guessing-Game"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "axios": "^0.24.0",
+    "moment": "^2.29.1",
+    "java-file-management-utility": "^1.0.0"
+  }
+}
